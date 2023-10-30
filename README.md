@@ -5,7 +5,7 @@
 
 **HomeWork 3: توضیح دهید چرا به جای محاسبه وزن ها در شبکه عصبی مصنوعی ترجیح می دهیم آموزش انجام شود؟**
 
-**HomeWork 4: Building a Neural Network from Scratch + Code Python**
+**HomeWork 4: [Building a Neural Network from Scratch + Code Python](https://colab.research.google.com/drive/1WmWu27Wllox2XHFF3eO_NQkE9RlYSmlL?authuser=1)** 
 
 **HomeWork 4-1: حل مسله دو کلاسه پرتقال و خیار**
 
