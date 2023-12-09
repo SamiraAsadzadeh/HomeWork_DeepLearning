@@ -9,6 +9,6 @@
 
 **HomeWork 4-1: حل مسله دو کلاسه پرتقال و خیار**
 
-**HomeWork 5: CNN - VGG - U-Net + Code Python**
+**HomeWork 5: Classification - Segmentation - Detection + Code Python**
 
 **HomeWork 5-1: در Dilation و Stride با اندازه  P با چه فرمولی سایز کوچک می شود؟ آیا سایز نصف می شود؟**
