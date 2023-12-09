@@ -12,3 +12,5 @@
 **HomeWork 5: Classification(CNN) - Segmentation(U-Net) - Detection + Code Python**
 
 **HomeWork 5-1: در Dilation و Stride با اندازه  P با چه فرمولی سایز کوچک می شود؟ آیا سایز نصف می شود؟**
+![tamrinat](https://github.com/SamiraAsadzadeh/HomeWork_DeepLearning/assets/140061247/aa472b69-5609-4703-83cc-fd05e1df98f4)
+
